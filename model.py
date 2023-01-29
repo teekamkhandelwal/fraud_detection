@@ -12,5 +12,4 @@ def model2():
 def model3():
     print("adding code for model 3")
 
-
-    
+print("model2 is perform ing best 95 accureccy")
